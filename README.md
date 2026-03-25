@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Poojitha 👋
 
-<!--
-**PoojithaBrpl/PoojithaBrpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | PES University
+💻 Aspiring Software Engineer
+📊 Interested in Data, ML, and Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+* ⚡ Smart Energy Consumption Analyzer
+* 🧠 Intelligent Task Scheduler
+
+---
+
+## 🛠️ Skills
+
+Python • C • JavaScript • SQL
+Pandas • NumPy • Machine Learning
+Data Structures & Algorithms
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced DSA
+* Backend Development
+* Machine Learning
+
+---
+
+✨ Always building and learning 🚀
+
